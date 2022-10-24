@@ -1,0 +1,8 @@
+com\adactin\pom\LogIn.class
+com\adactin\pom\TestCase104.class
+com\adactin\helper\PageObjectManager.class
+com\adactin\baseclass\BaseClass.class
+com\adactin\baseclass\SeleniumGrid.class
+com\adactin\pom\TestCase102.class
+com\adactin\helper\FileReadManager.class
+com\adactin\helper\ConfigReader.class

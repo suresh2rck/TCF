@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.adactin.test.Adactin_TestRunner
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 20.987 s - in com.adactin.test.Adactin_TestRunner

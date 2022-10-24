@@ -1,0 +1,5 @@
+com\adactin\test\Adactin_TestRunner.class
+com\adactin\stepdef\ToolsStepDef.class
+com\adactin\stepdef\Hooks.class
+com\adactin\stepdef\AdactinStepDef.class
+com\adactin\test\Tools_TestRunner.class
